@@ -1,0 +1,8 @@
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe.config
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.pdb
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.AssemblyReference.cache
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.SuggestedBindingRedirects.cache
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.CoreCompileInputs.cache
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.exe
+E:\Work\personal work\0010_RU\3 kurs\5 Semestyr\Softuerno Inzhenerstvo\Exercises\uprzh_01.12.2021\MyRepository\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.pdb
